@@ -1,6 +1,6 @@
-# React + Vite
+# Hoobank Clone Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal project, thoughtfully crafted to showcase the breadth of my web development skills. Inspired by the work of another talented developer, I took on the challenge of recreating this project to demonstrate my capabilities.
 
 Currently, two official plugins are available:
 
